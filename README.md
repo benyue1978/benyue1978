@@ -43,6 +43,11 @@ I'm a passionate **AI Researcher, Educator, and Full-stack Developer** with deep
 
 ## 🔥 Featured Projects
 
+### 🆕 Latest Projects
+- **[fun-withus-chrometab](https://github.com/benyue1978/fun-withus-chrometab)** - **Chrome Tab Management Tool** for enhanced browsing experience
+- **[solo-flow-mcp](https://github.com/benyue1978/solo-flow-mcp)** - **Solo Flow MCP Implementation** for streamlined workflow automation
+- **[next-dynamic-forms](https://github.com/benyue1978/next-dynamic-forms)** - **Dynamic Form Builder** with Next.js for flexible form creation
+
 ### 🤖 AI & Machine Learning Solutions
 - **[langchain_rag](https://github.com/benyue1978/langchain_rag)** ⭐ - **Production-ready RAG system** using LangChain for intelligent document Q&A
 - **[ai-text2sql-vanna](https://github.com/benyue1978/ai-text2sql-vanna)** ⭐ - **Natural Language to SQL converter** powered by Vanna.AI, democratizing data access
