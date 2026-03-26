@@ -25,7 +25,7 @@ jobs:
 
       - name: Commit generated snake assets
         run: |
-          if git diff --quiet -- assets/github-snake.svg assets/github-snake-dark.svg; then
+          if [ -z "$(git status --short -- assets/github-snake.svg assets/github-snake-dark.svg)" ]; then
             echo "No changes to commit"
             exit 0
           fi
