@@ -53,4 +53,27 @@ If you're interested in AI tooling, MCP, automation, or indie product building, 
 - [yuesong.cc](https://yuesong.cc)
 - [substack.com/@benyue](https://substack.com/@benyue)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=benyue1978&show_icons=true&hide_border=true)
+## GitHub Snapshot
+
+[![GitHub streak](https://streak-stats.demolab.com?user=benyue1978&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benyue1978&theme=transparent)
+
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=benyue1978&theme=transparent)
+
+[![GitHub activity stats](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/benyue1978/benyue1978/main/assets/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/benyue1978/benyue1978/main/assets/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/benyue1978/benyue1978/main/assets/github-snake.svg"
+  />
+</picture>
